@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "name": "social-network-api",
+  "description": "Social network api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeinadZz/Social-Network-API.git"
+  },
+  "author": "Daniel Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeinadZz/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/LeinadZz/Social-Network-API#readme"
+}
